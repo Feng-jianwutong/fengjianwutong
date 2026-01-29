@@ -26,8 +26,8 @@ favicon:
 
 # 用户头像与昵称
 avatar:
-  author_photo: /fengjianwutong/images/avatar.png
-  author_nickname: Oranges
+  author_photo: /fengjianwutong/images/fengjianwutong.png
+  author_nickname: 枫间梧桐
   path: /
 
 # Google 分析
@@ -82,32 +82,32 @@ navbar:
   -
     name: Home
     enable: true
-    path: /
+    path: /fengjianwutong/
     key: home
   -
     name: Archives
     enable: true
-    path: /archives/
+    path: /fengjianwutong/archives/
     key: archives
   -
     name: Categories
     enable: false
-    path: /categories/
+    path: /fengjianwutong/categories/
     key: categories
   -
     name: Tags
     enable: true
-    path: /tags/
+    path: /fengjianwutong/tags/
     key: tags
   -
     name: Friends
     enable: false
-    path: /friends/
+    path: /fengjianwutong/friends/
     key: friends
   -
     name: About
     enable: false
-    path: /about/
+    path: /fengjianwutong/about/
     key: about
 
 # 文章目录
@@ -127,10 +127,6 @@ friends:
     nickname: Zcheng
     site: https://zcheng.site/
     meta:
-  -
-    nickname: Hexo
-    site: https://hexo.io/
-    meta:
 
 # 页脚信息
 footer:
@@ -145,7 +141,7 @@ footer:
     -
       name: github
       icon: github
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/Feng-jianwutong/fengjianwutong
     # -
     #   name: email
     #   icon: envelope
