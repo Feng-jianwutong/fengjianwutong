@@ -21,12 +21,12 @@
 # 网站图标
 favicon:
   enable: true
-  icon: /images/favicon.png
-  touch_icon: /images/favicon.png
+  icon: /fengjianwutong/images/favicon.png
+  touch_icon: /fengjianwutong/images/favicon.png
 
 # 用户头像与昵称
 avatar:
-  author_photo: /images/avatar.pagination
+  author_photo: /fengjianwutong/images/avatar.pagination
   author_nickname: Oranges
   path: /
 
