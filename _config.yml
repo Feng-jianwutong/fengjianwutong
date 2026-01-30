@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 枫间梧桐の博客
-subtitle: ''
-description: ''
-keywords:
-author: 枫间梧桐
+title: 枫间梧桐
+subtitle: '专心把一件事做好'
+description: '记录生活，分享技术，传播知识'
+keywords: "C语言, 编程, 学习, 技术, 生活"
+author: fengjianwutong
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
