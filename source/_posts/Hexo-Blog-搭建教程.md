@@ -1,12 +1,12 @@
 ---
-title: 我艰难的blog搭建之旅
+title: Hexo Blog 搭建教程
 date: 2026-01-30 09:20:05
 tags: 
-    - hexo
-    - github
-    - 教程
+  - hexo
+  - github
+  - 教程
 categories: 教程
-toc: true
+top: true
 mathjax: true
 ---
 
@@ -14,7 +14,7 @@ mathjax: true
 
 
 ## 想法背景
-我是在寻找 "解决windows跨平台编译" 问题的过程中，看到了别人搭建的[Blog][other-blog]，让我萌发搭建自己的Blog的想法。
+我是在寻找 "解决windows跨平台编译" 问题的过程中，看到了别人搭建的[Blog][other-blog]^[1]^，让我萌发搭建自己的Blog的想法。
 
 最开始直接搜索的如何基于github pages 搭建一个 blog，推荐的是基于 Jekyll 框架和 github pages 搭建，但是主题、build都比较复杂，搞了一天，发现维护部署不够简单，然后看了篇 hexo 的搭建教程，发现非常适合我这种懒狗，于是一拍即合，开始搭建......
 
@@ -245,6 +245,13 @@ navbar:
 我想说的是，成功真的会让人上瘾，这次的成功，会让我下一次遇到困难时迎难而上。
 
 最后再次感叹时代的进步，AI真的很好用，帮助我快速定位和解决问题。
+
+## 参考
+`[1] https://ashe27.github.io/2025/07/18/202507181/ `
+`[2] https://hexo.theme.oranges.zcheng.site/ `
+`[3] https://zhuanlan.zhihu.com/p/60578464 `
+`[4] https://github.com/zchengsite/hexo-theme-oranges?tab=readme-ov-file `
+`[5] https://github.com/Feng-jianwutong/hexo-theme-oranges `
 
 [other-blog]: https://ashe27.github.io/2025/07/18/202507181/ "解决windows跨平台编译问题" 
 [cankao]: https://hexo.theme.oranges.zcheng.site/ "参考站点"

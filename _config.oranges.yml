@@ -80,22 +80,22 @@ comments:
 # 主题页面导航栏
 navbar:
   -
-    name: Home
+    name: 主页
     enable: true
     path: /fengjianwutong/
     key: home
   -
-    name: Archives
+    name: 档案
     enable: true
     path: /fengjianwutong/archives/
     key: archives
   -
-    name: Categories
-    enable: false
+    name: 分类
+    enable: true
     path: /fengjianwutong/categories/
     key: categories
   -
-    name: Tags
+    name: 标签
     enable: true
     path: /fengjianwutong/tags/
     key: tags
@@ -123,10 +123,10 @@ friends:
   # nickname: 昵称
   # site: 地址
   # meta: 描述
-  -
-    nickname: Zcheng
-    site: https://zcheng.site/
-    meta:
+  # -
+  #   nickname: Zcheng
+  #   site: https://zcheng.site/
+  #   meta:
 
 # 页脚信息
 footer:
@@ -205,7 +205,7 @@ footer:
 # 文章搜索
 search:
   enable: true
-  placeholder: 
+  placeholder: 搜索...
 
 # 深/浅配色切换
 colorSwitch:
@@ -216,10 +216,10 @@ postShare:
   enable: true
 
   twitter:
-    enable: true
+    enable: false
 
   facebook:
-    enable: true
+    enable: false
 
 # 代码块配置
 codeBlock:
